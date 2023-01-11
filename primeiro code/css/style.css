@@ -1,0 +1,12 @@
+html{
+    display: block;
+    height: 100%;
+    line-height: 1.5;
+    tab-size: 4;
+}
+.fixo{
+    position: fixed;
+}
+.flexivel{
+    display: flex;
+}
